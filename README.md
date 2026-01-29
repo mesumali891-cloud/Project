@@ -1,5 +1,5 @@
 # Hospital Medicine Management System.
-#### Vedio demo:
+#### Vedio demo:https://youtu.be/-M1rLfWbkoY
 #### Description:
 The Hospital Medicine Management System is a console-based software application developed using the C++ programming language. This project is designed to help hospitals, clinics, and medical stores manage their medicine records in an organized and efficient manner. The main goal of this system is to replace manual record-keeping with a computerized solution that is faster, more accurate, and easier to use.
 In many hospitals, medicine records are often maintained manually, which can lead to problems such as data loss, incorrect entries, and difficulty in tracking medicine stock. This system solves those problems by maintaining all medicine-related information digitally. Each medicine record contains important details such as medicine ID, medicine name, dosage, and available quantity, ensuring that all necessary information is stored in one place.
